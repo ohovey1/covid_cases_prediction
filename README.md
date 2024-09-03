@@ -13,9 +13,8 @@ Given survey results in the past 3 days in a specific state in U.S., then predic
 This notebook is divided into the following sections:
 
 1. Data Exploration
-2. Data Preparation
-3. Data Modeling
-4. Empirical Results and Evaluation
+2. Data Modeling
+3. Empirical Results and Evaluation
 
 
 ### Data Exploration: 
